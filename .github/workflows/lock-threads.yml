@@ -8,7 +8,7 @@ on:
 permissions:
   issues: write
   pull-requests: write
-  discussions: write
+  discussions: writey6
 
 concurrency:
   group: lock-threads
